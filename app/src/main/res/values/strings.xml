@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="title">LearnCodeOnline.in</string>
+    <string name="SignUp">
+        <u>SIGN UP</u>
+    </string>
+</resources>
